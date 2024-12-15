@@ -15,7 +15,7 @@ This project is a demonstration of a vulnerable banking API. It is designed for 
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/faswadi/awesomebank.git
+   git clone https://github.com/alaswadi/awesomebank.git
    cd vulnerable-banking-api
    ```
 
