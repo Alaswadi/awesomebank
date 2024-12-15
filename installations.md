@@ -54,6 +54,10 @@ source ~/.bashrc
 ```bash
 go version
 ```
+or you can install it the easy way:
+```bash
+sudo apt install golang
+```
 
 ## 7. Install The JSON Web Token Toolkit v2
 Clone the repository and set it up:
@@ -73,6 +77,14 @@ cd kiterunner
 ```bash
 go build .
 ```
+or you can do it the easy way
+```bash
+download the release from https://github.com/assetnote/kiterunner
+unzip kiterunner_1.0.2_linux_amd64.tar.gz
+sudo cp kr /usr/bin
+kr --help
+```
+
 
 ## 9. Install SecLists and FeroXbuster
 ### SecLists:
